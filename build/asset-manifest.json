@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9417b225.css",
+    "main.js": "/static/js/main.787e77c5.js",
+    "static/media/resume.txt": "/static/media/resume.36a91e15f9078c32e8ca.txt",
+    "static/media/log3.png": "/static/media/log3.a0c142afd2f61351fa76.png",
+    "static/media/FoodDelight4.png": "/static/media/FoodDelight4.e6675f797a662bbac3a3.png",
+    "static/media/GameColor.png": "/static/media/GameColor.690471e6204e57e3e901.png",
+    "static/media/Sidebar2.png": "/static/media/Sidebar2.ee5547cf834f51874434.png",
+    "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/girl.jpg": "/static/media/girl.758cdc30ac4ba8c537e0.jpg",
+    "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/index.html",
+    "main.9417b225.css.map": "/static/css/main.9417b225.css.map",
+    "main.787e77c5.js.map": "/static/js/main.787e77c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9417b225.css",
+    "static/js/main.787e77c5.js"
+  ]
+}
